@@ -1,0 +1,19 @@
+{
+  "header": {
+    "headline": "Test",
+    "text": "Lorem Ipsum",
+    "primary-button": {
+      "title": "Test",
+      "url": "Test"
+    },
+    "secondary-button": {
+      "title": "Test",
+      "url": "/"
+    },
+    "link": {
+      "title": "Test",
+      "url": "/"
+    },
+    "image": "/images/ory.sh-home-wf.png"
+  }
+}
